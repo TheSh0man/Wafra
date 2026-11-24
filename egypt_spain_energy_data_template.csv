@@ -1,0 +1,15 @@
+﻿country,year,month,date,indicator,value,unit,source,source_url,notes
+Egypt,2024,,2024,electricity_consumption,,GWh,Ember / Egyptera,https://ember-energy.org/data/monthly-electricity-data/,Annual demand
+Egypt,2024,,2024,solar_generation,,TWh,Ember / Egyptera,https://ember-energy.org/data/monthly-electricity-data/,Renewables may be aggregated in Ember Egypt data
+Egypt,2024,,2024,wind_generation,,TWh,IRENA / Egyptera,https://www.irena.org/Data,Check national statistics
+Egypt,2024,,2024,natural_gas_production,,million m3,JODI-Gas,https://www.jodidata.org/gas/database/data-downloads.aspx,Monthly
+Egypt,2024,,2024,natural_gas_consumption,,million m3,JODI-Gas,https://www.jodidata.org/gas/database/data-downloads.aspx,Gross inland deliveries
+Egypt,2024,,2024,natural_gas_imports,,million m3,JODI-Gas,https://www.jodidata.org/gas/database/data-downloads.aspx,Pipeline + LNG
+Egypt,2024,,2024,electricity_price_household,,EGP/kWh,Egyptian regulator / utility,,Use official tariff
+Spain,2024,,2024,electricity_consumption,,GWh,Eurostat / Ember,https://ec.europa.eu/eurostat,Final consumption or demand
+Spain,2024,,2024,solar_generation,,TWh,Ember / Eurostat,https://ember-energy.org/data/monthly-electricity-data/,Monthly available
+Spain,2024,,2024,wind_generation,,TWh,Ember / Eurostat,https://ember-energy.org/data/monthly-electricity-data/,Monthly available
+Spain,2024,,2024,natural_gas_production,,million m3,JODI-Gas,https://www.jodidata.org/gas/database/data-downloads.aspx,Monthly
+Spain,2024,,2024,natural_gas_consumption,,million m3,JODI-Gas,https://www.jodidata.org/gas/database/data-downloads.aspx,Gross inland deliveries
+Spain,2024,,2024,natural_gas_imports,,million m3,JODI-Gas,https://www.jodidata.org/gas/database/data-downloads.aspx,Pipeline + LNG
+Spain,2024,,2024,electricity_price_household,,EUR/kWh,Eurostat nrg_pc_204,https://ec.europa.eu/eurostat/databrowser/view/nrg_pc_204/,Biannual
